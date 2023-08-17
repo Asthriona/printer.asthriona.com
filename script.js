@@ -9,3 +9,6 @@ const randomNum = Math.floor(Math.random() * backgrounds.length);
 document.getElementsByTagName(
   'body'
 )[0].style.backgroundImage = `url(${backgrounds[randomNum]})`;
+
+console.log(`Artwork link: ${backgrounds[randomNum]}`);
+console.log(`Made by Asthriona. Based on https://printer.yukiko.app`);

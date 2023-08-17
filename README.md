@@ -1,3 +1,5 @@
 # printer.asthriona.com
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-tcmce6)
+Some very random stuff, for some very random people <3
+
+Availiable at https://printer.asthriona.com
